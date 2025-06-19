@@ -1,3 +1,4 @@
 [submodule "Test-external-module"]
 	path = Test-external-module
 	url = git@github.com:theosementa/Test-external-module.git
+	branch = main
